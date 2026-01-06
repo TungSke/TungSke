@@ -1,5 +1,5 @@
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungske&show_icons=true&theme=tokyonight)
+<img alt="Johnny's Github Stats" src="https://github-readme-stats-sigma-sage-72.vercel.app/api/?username=tungske&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="190px"/>
 
 # Language:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
