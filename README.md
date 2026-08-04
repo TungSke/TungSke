@@ -80,3 +80,9 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tungske&theme=react&hide_border=true&background=1F222E&stroke=000000&ring=F8D866&fire=FFC107&currStreakNum=F85D7F&sideNums=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8D866" alt="Streak Stats" />
 </div>
+
+---
+
+### 🎵 My Favorite Song
+
+![Favorite Song](./favorite_song.svg)
