@@ -85,4 +85,4 @@ I am a passionate **Software Engineer** specializing in building high-performanc
 
 ### 🎵 My Favorite Song
 
-![Favorite Song](./favorite_song.svg)
+<img src="favorite_song.svg"/>
